@@ -8,6 +8,9 @@
 .project
 .settings
 
+#gradle
+.gradle
+
 # Destination
 build
 target
