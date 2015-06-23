@@ -1,3 +1,5 @@
+//変更する
+//clock long
 package com.github.clock.swing;
 
 import java.awt.BasicStroke;
